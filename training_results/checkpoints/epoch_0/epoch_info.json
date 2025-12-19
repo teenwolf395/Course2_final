@@ -1,0 +1,6 @@
+{
+  "epoch": 0,
+  "timestamp": "2025-12-19T16:07:04.111274",
+  "model_type": "AlbertForSequenceClassification",
+  "num_labels": 13
+}

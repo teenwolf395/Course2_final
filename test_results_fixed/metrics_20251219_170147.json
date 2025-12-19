@@ -1,0 +1,11 @@
+{
+  "accuracy": 0.9557692307692308,
+  "precision_macro": 0.9617171918076894,
+  "recall_macro": 0.9557692307692307,
+  "f1_macro": 0.9550068052124436,
+  "timestamp": "20251219_170147",
+  "model_name": "ALBERT-base-v2",
+  "num_classes": 13,
+  "num_samples": 520,
+  "num_errors": 23
+}

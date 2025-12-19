@@ -1,0 +1,32 @@
+{
+  "label2id": {
+    "apple pay or google pay": 0,
+    "atm support": 1,
+    "cancel transfer": 2,
+    "card not working": 3,
+    "card swallowed": 4,
+    "change pin": 5,
+    "country support": 6,
+    "declined cash withdrawal": 7,
+    "edit personal details": 8,
+    "exchange rate": 9,
+    "terminate account": 10,
+    "transfer into account": 11,
+    "visa or mastercard": 12
+  },
+  "id2label": {
+    "0": "apple pay or google pay",
+    "1": "atm support",
+    "2": "cancel transfer",
+    "3": "card not working",
+    "4": "card swallowed",
+    "5": "change pin",
+    "6": "country support",
+    "7": "declined cash withdrawal",
+    "8": "edit personal details",
+    "9": "exchange rate",
+    "10": "terminate account",
+    "11": "transfer into account",
+    "12": "visa or mastercard"
+  }
+}

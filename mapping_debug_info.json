@@ -1,0 +1,50 @@
+{
+  "test_labels_sample": [
+    "exchange rate",
+    "card not working",
+    "cancel transfer",
+    "edit personal details",
+    "visa or mastercard",
+    "atm support",
+    "declined cash withdrawal",
+    "terminate account",
+    "card swallowed",
+    "change pin",
+    "transfer into account",
+    "apple pay or google pay",
+    "country support"
+  ],
+  "mapping_keys_sample": [
+    "apple pay or google pay",
+    "atm support",
+    "cancel transfer",
+    "card not working",
+    "card swallowed",
+    "change pin",
+    "country support",
+    "declined cash withdrawal",
+    "edit personal details",
+    "exchange rate",
+    "terminate account",
+    "transfer into account",
+    "visa or mastercard"
+  ],
+  "normalized_mapping_keys": [
+    "apple pay or google pay",
+    "atm support",
+    "cancel transfer",
+    "card not working",
+    "card swallowed",
+    "change pin",
+    "country support",
+    "declined cash withdrawal",
+    "edit personal details",
+    "exchange rate",
+    "terminate account",
+    "transfer into account",
+    "visa or mastercard"
+  ],
+  "matched_count": 520,
+  "unmatched_count": 0,
+  "unmatched_examples": []
+}

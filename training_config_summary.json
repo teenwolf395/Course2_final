@@ -1,0 +1,17 @@
+{
+  "model": "ALBERT-base-v2",
+  "num_classes": 13,
+  "trainable_params": 11685122,
+  "total_params": 11685122,
+  "train_size": 1320,
+  "val_size": 260,
+  "batch_size": 32,
+  "device": "CPU",
+  "optimizer": "AdamW",
+  "loss_function": "CrossEntropyLoss",
+  "scheduler": "OneCycleLR",
+  "max_length": 128,
+  "monitoring": "Включено (логгирование, чекпоинты, визуализация)",
+  "early_stopping": "Включено",
+  "mixed_precision": "Не используется на CPU"
+}

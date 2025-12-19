@@ -1,0 +1,24 @@
+text,true_label,pred_label,is_correct,true_class,pred_class
+i want to go back on what i did this morning,2,7,False,cancel transfer,declined cash withdrawal
+i need to change my account details,8,10,False,edit personal details,terminate account
+what major card payments are accepted?,12,1,False,visa or mastercard,atm support
+can i get cash with this card anywhere?,1,6,False,atm support,country support
+locations to withdraw money,1,7,False,atm support,declined cash withdrawal
+i was retrieving money and my card wouldn't remove.,4,7,False,card swallowed,declined cash withdrawal
+what do i do since the machine swallowed my card. i need one.,4,3,False,card swallowed,card not working
+how can i get my card back out?,4,3,False,card swallowed,card not working
+my atm got stuck and i'm not sure what to do.,4,7,False,card swallowed,declined cash withdrawal
+atm still has my card,4,7,False,card swallowed,declined cash withdrawal
+the stupid machine just swallowed my card!! i need a new one asap,4,3,False,card swallowed,card not working
+i was getting cash and can't get my card back.,4,3,False,card swallowed,card not working
+i was taking out funds and was unable to regain my card.,4,7,False,card swallowed,declined cash withdrawal
+what should i do with my atm that got stuck?,4,7,False,card swallowed,declined cash withdrawal
+the atm at metro bank on high st. kensington didn't return my card. what should i do now that the bank is closed?,4,7,False,card swallowed,declined cash withdrawal
+the atm won't give back my card,4,7,False,card swallowed,declined cash withdrawal
+wtf??? i tried to withdraw some money at a metro bank on high st. kensington and without any notice it disappeared in the machine. the bank was already closed so i couldn't do anything. how do i get it back?,4,7,False,card swallowed,declined cash withdrawal
+may i receive a different card pin,5,12,False,change pin,visa or mastercard
+"i don't understand how to top up my account, can you please explain the process?",11,10,False,transfer into account,terminate account
+i don't know what to do. should i transfer funds. my account is out of money.,11,7,False,transfer into account,declined cash withdrawal
+how do i top up my card?,11,3,False,transfer into account,card not working
+how do i do an international transfer?,11,6,False,transfer into account,country support
+how does a transfer work?,11,2,False,transfer into account,cancel transfer

@@ -1,0 +1,36 @@
+{
+  "epoch": 3,
+  "train_loss": 0.44068680987471626,
+  "train_accuracy": 0.953030303030303,
+  "val_loss": 0.3486173301935196,
+  "val_accuracy": 0.9769230769230769,
+  "epoch_time_seconds": 685.464732,
+  "learning_rate": 2e-05,
+  "timestamp": "2025-12-19T16:41:26.538938",
+  "train_batches_processed": 42,
+  "val_batches_processed": 9,
+  "train_samples": 1320,
+  "val_samples": 260,
+  "labels_info": {
+    "expected_labels_range": "0-12",
+    "actual_labels_in_data": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "labels_in_current_epoch": {
+      "min_in_train": 6,
+      "max_in_train": 6
+    }
+  }
+}

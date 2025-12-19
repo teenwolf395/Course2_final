@@ -1,0 +1,27 @@
+Отчет по классификации на тестовых данных (FIXED VERSION)
+
+
+Точность (Accuracy): 0.9558
+Precision (macro): 0.9617
+Recall (macro): 0.9558
+F1-score (macro): 0.9550
+
+                          precision    recall  f1-score   support
+
+ apple pay or google pay      1.000     1.000     1.000        40
+             atm support      0.974     0.950     0.962        40
+         cancel transfer      0.975     0.975     0.975        40
+        card not working      0.889     1.000     0.941        40
+          card swallowed      1.000     0.700     0.824        40
+              change pin      1.000     0.975     0.987        40
+         country support      0.952     1.000     0.976        40
+declined cash withdrawal      0.784     1.000     0.879        40
+   edit personal details      1.000     0.975     0.987        40
+           exchange rate      1.000     1.000     1.000        40
+       terminate account      0.952     1.000     0.976        40
+   transfer into account      1.000     0.875     0.933        40
+      visa or mastercard      0.975     0.975     0.975        40
+
+                accuracy                          0.956       520
+               macro avg      0.962     0.956     0.955       520
+            weighted avg      0.962     0.956     0.955       520

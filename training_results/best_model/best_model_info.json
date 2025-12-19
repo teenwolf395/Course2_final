@@ -1,0 +1,33 @@
+{
+  "epoch": 3,
+  "val_accuracy": 0.9769230769230769,
+  "val_loss": 0.3486173301935196,
+  "train_accuracy": 0.953030303030303,
+  "train_loss": 0.44068680987471626,
+  "timestamp": "2025-12-19T16:41:26.710406",
+  "total_epochs": 5,
+  "learning_rate": 2e-05,
+  "num_labels": 13,
+  "actual_labels_in_data": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "files_saved": [
+    "config.json",
+    "pytorch_model.bin",
+    "tokenizer_config.json",
+    "spiece.model",
+    "special_tokens_map.json"
+  ]
+}

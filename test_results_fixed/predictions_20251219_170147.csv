@@ -1,0 +1,521 @@
+text,true_label_id,pred_label_id,is_correct,confidence,true_label_name,pred_label_name
+i need to know your exchange rates.,9,9,True,0.82453024,exchange rate,exchange rate
+what exchange rates do you offer?,9,9,True,0.81858116,exchange rate,exchange rate
+how did you come up with your exchange rates?,9,9,True,0.8252662,exchange rate,exchange rate
+where do you guys acquire your exchange rate?,9,9,True,0.8049943,exchange rate,exchange rate
+how do i find the exchange rate?,9,9,True,0.8324694,exchange rate,exchange rate
+what are your international exchange rates?,9,9,True,0.8050703,exchange rate,exchange rate
+how often do your exchange rates change,9,9,True,0.794663,exchange rate,exchange rate
+please advise what is the exchange rate,9,9,True,0.73856306,exchange rate,exchange rate
+how are exchange rates calculated?,9,9,True,0.82794034,exchange rate,exchange rate
+what are exchange rates based on,9,9,True,0.77818877,exchange rate,exchange rate
+what are exchange rates,9,9,True,0.74189454,exchange rate,exchange rate
+what are the most current exchange rates?,9,9,True,0.8276515,exchange rate,exchange rate
+can you explain your exchange rate policy to me?,9,9,True,0.79247075,exchange rate,exchange rate
+is it a good time to exchange?,9,9,True,0.30769253,exchange rate,exchange rate
+what is the exchange rate like on this app?,9,9,True,0.79106194,exchange rate,exchange rate
+do you have a list of exchange rates?,9,9,True,0.83082545,exchange rate,exchange rate
+can you tell me where you get your exchange rates?,9,9,True,0.806413,exchange rate,exchange rate
+will i get a curreng foreign exchange rate?,9,9,True,0.7753263,exchange rate,exchange rate
+what currencies is an exchange rate calculated in?,9,9,True,0.7940339,exchange rate,exchange rate
+where do you get your exchange rates from?,9,9,True,0.7995873,exchange rate,exchange rate
+what is the base of the exchange rates?,9,9,True,0.8316824,exchange rate,exchange rate
+what exchange rate do you use?,9,9,True,0.81522924,exchange rate,exchange rate
+the exchange rates are?,9,9,True,0.8180509,exchange rate,exchange rate
+what do you base your exchange rates on?,9,9,True,0.8242485,exchange rate,exchange rate
+what foreign exchange rate will you use?,9,9,True,0.81220657,exchange rate,exchange rate
+how much will i get with the exchange rate?,9,9,True,0.8228572,exchange rate,exchange rate
+the exchange rate would be?,9,9,True,0.8264023,exchange rate,exchange rate
+what is the exchange rate like?,9,9,True,0.8286621,exchange rate,exchange rate
+how do your exchange rates work?,9,9,True,0.823299,exchange rate,exchange rate
+what is the exchange rate?,9,9,True,0.82857317,exchange rate,exchange rate
+where did your guys exchange rates come from?,9,9,True,0.79336524,exchange rate,exchange rate
+how are you determining your exchange rates?,9,9,True,0.82217896,exchange rate,exchange rate
+i'm trying to figure out the current exchange rate.,9,9,True,0.8182564,exchange rate,exchange rate
+from where are you getting your exchange rates?,9,9,True,0.81689644,exchange rate,exchange rate
+can you tell me the foreign exchange rate?,9,9,True,0.8167145,exchange rate,exchange rate
+why do your exchange rates change,9,9,True,0.79667777,exchange rate,exchange rate
+what kind of foreign exchange rate will i get when i exchange my money?,9,9,True,0.73688763,exchange rate,exchange rate
+what is my foreign exchange rate?,9,9,True,0.8202638,exchange rate,exchange rate
+when does the rate get determined,9,9,True,0.47409764,exchange rate,exchange rate
+what is the current exchange rate for me?,9,9,True,0.82451254,exchange rate,exchange rate
+i've tried my card a bunch of times and it never worked.,3,3,True,0.744328,card not working,card not working
+i can't get my card to work.,3,3,True,0.7763809,card not working,card not working
+my card appears to be broken how can i fix it?,3,3,True,0.76744217,card not working,card not working
+how do i know why my card isn't working?,3,3,True,0.7758628,card not working,card not working
+my card broke.,3,3,True,0.7126043,card not working,card not working
+my card won't work.,3,3,True,0.78336775,card not working,card not working
+why is my card not working?,3,3,True,0.75255257,card not working,card not working
+can you please identify the problem with my bank card?,3,3,True,0.6211238,card not working,card not working
+how do i unblock my card using the app?,3,3,True,0.70286393,card not working,card not working
+my card does not work,3,3,True,0.77443653,card not working,card not working
+how can i get my physical card to work?,3,3,True,0.68562335,card not working,card not working
+can someone assist me by explaining why my card is not working?,3,3,True,0.7149929,card not working,card not working
+help me.  my card doesn't work.,3,3,True,0.7375512,card not working,card not working
+can a card stop working?,3,3,True,0.6673956,card not working,card not working
+i think my card is broken,3,3,True,0.67160195,card not working,card not working
+why isn't my card working?,3,3,True,0.7707951,card not working,card not working
+my card isn't working anymore.,3,3,True,0.7842414,card not working,card not working
+my card was declined today when eating and i need to know what's wrong.,3,3,True,0.705318,card not working,card not working
+my card doesn't work.,3,3,True,0.7863725,card not working,card not working
+how can i resolve a problem where my card won't go through at all?,3,3,True,0.73853725,card not working,card not working
+my actual card isn't working.,3,3,True,0.7939827,card not working,card not working
+is my card broken?,3,3,True,0.72597265,card not working,card not working
+i broke my card,3,3,True,0.510873,card not working,card not working
+my card stopped working,3,3,True,0.6459389,card not working,card not working
+"my card is broke, what do i do?",3,3,True,0.7421281,card not working,card not working
+"i tried using my card today and it's not working, can you help me?",3,3,True,0.76993793,card not working,card not working
+my card stopped working when i use it,3,3,True,0.748512,card not working,card not working
+i can't use my card.,3,3,True,0.7695456,card not working,card not working
+need help with my card. it's not working.,3,3,True,0.7383009,card not working,card not working
+i cannot use my card.,3,3,True,0.7651435,card not working,card not working
+the card i've got seems to be broken.,3,3,True,0.75281554,card not working,card not working
+my card isn't working,3,3,True,0.7683108,card not working,card not working
+my card suddenly quit working.,3,3,True,0.7540651,card not working,card not working
+i have tried to use my card several times and it does not work.,3,3,True,0.776576,card not working,card not working
+the card i have doesn't work.,3,3,True,0.77464926,card not working,card not working
+my card doesn't accept any transaction at all. what's wrong??,3,3,True,0.73644805,card not working,card not working
+how can i check if my card is working?,3,3,True,0.73681575,card not working,card not working
+nothing goes through on my card.,3,3,True,0.72571146,card not working,card not working
+how do i find out why my card won't work?,3,3,True,0.78953797,card not working,card not working
+"could it be that i deactivated my card, its not working?",3,3,True,0.64212584,card not working,card not working
+i made a transaction this morning and would like to revert it.,2,2,True,0.9162235,cancel transfer,cancel transfer
+can i cancel a charge?,2,2,True,0.868618,cancel transfer,cancel transfer
+can i cancel my transaction?,2,2,True,0.86746573,cancel transfer,cancel transfer
+i made a transaction but did it to the wrong account.,2,2,True,0.9135529,cancel transfer,cancel transfer
+tell me how to cancel a transfer.,2,2,True,0.9089051,cancel transfer,cancel transfer
+i need you to cancel a transfer that i made.  it is the wrong account number and the app won't let me stop the transaction.  please stop it!,2,2,True,0.92931676,cancel transfer,cancel transfer
+"i need to cancel my recent transfer immediately, i made a mistake there, please help quickly before it goes through",2,2,True,0.93734473,cancel transfer,cancel transfer
+i would like to revert a transaction i did this morning,2,2,True,0.8855455,cancel transfer,cancel transfer
+if i make a transaction can i cancel it?,2,2,True,0.89498067,cancel transfer,cancel transfer
+how can i cancel a transfer?,2,2,True,0.91777813,cancel transfer,cancel transfer
+is there any way to cancel a transfer?,2,2,True,0.91868454,cancel transfer,cancel transfer
+i accidentally made a transaction to the wrong account.,2,2,True,0.9264783,cancel transfer,cancel transfer
+i want to cancel a transfer right away! can you help?,2,2,True,0.92256105,cancel transfer,cancel transfer
+help me cancel my transaction,2,2,True,0.7839485,cancel transfer,cancel transfer
+"this is urgent, i typed the wrong payment information for a payment i needed to make and have clicked send, i need to reverse the transaction immediately.",2,2,True,0.88527215,cancel transfer,cancel transfer
+can i cancel a transfer,2,2,True,0.867875,cancel transfer,cancel transfer
+i want to reverse my transaction from earlier,2,2,True,0.85474914,cancel transfer,cancel transfer
+is there a way to revert my transaction from this morning?,2,2,True,0.8572543,cancel transfer,cancel transfer
+i'd like to cancel a transfer,2,2,True,0.88000757,cancel transfer,cancel transfer
+can i cancel a transfer if is already processed?,2,2,True,0.86661977,cancel transfer,cancel transfer
+i transferred the wrong amount and would like to cancel the transaction.,2,2,True,0.89407504,cancel transfer,cancel transfer
+i made a mistake when i did a transfer so now what can i do to fix that?,2,2,True,0.9040923,cancel transfer,cancel transfer
+i need to cancel an incorrect transaction.,2,2,True,0.91275597,cancel transfer,cancel transfer
+how do i cancel my transfer?,2,2,True,0.83908486,cancel transfer,cancel transfer
+i made a mistake with a transaction!,2,2,True,0.8890142,cancel transfer,cancel transfer
+i submitted a transaction to the incorrect account.,2,2,True,0.9008324,cancel transfer,cancel transfer
+the transfer i just made needs to be cancelled right now. it was my mistake. please help me cancel it before it goes through!,2,2,True,0.9203959,cancel transfer,cancel transfer
+i want to go back on what i did this morning,2,7,False,0.23021972,cancel transfer,declined cash withdrawal
+can a transaction be cancelled?,2,2,True,0.8878225,cancel transfer,cancel transfer
+how do i cancel my transaction?,2,2,True,0.7216192,cancel transfer,cancel transfer
+my transaction needs to be canceled.,2,2,True,0.81780213,cancel transfer,cancel transfer
+i need to make an immediate cancellation related to a transfer. this was a mistake. please assist quickly so this does not actually go through.,2,2,True,0.9313073,cancel transfer,cancel transfer
+i made a mistake and need to cancel a transaction,2,2,True,0.91242945,cancel transfer,cancel transfer
+i made an error in payment yesterday and i need it fixed asap because it's for my rent tomorrow.,2,2,True,0.8858244,cancel transfer,cancel transfer
+cancel my last transfer,2,2,True,0.83190304,cancel transfer,cancel transfer
+"my recent transfer needs to be cancelled immediately; it was a mistake, please can you cancel it before it goes through?",2,2,True,0.93858886,cancel transfer,cancel transfer
+i need help cancelling a transaction.,2,2,True,0.9063006,cancel transfer,cancel transfer
+i don't want the transaction to go through now,2,2,True,0.4729532,cancel transfer,cancel transfer
+can i change the amount i made on a payment that i made to the payment is correct.,2,2,True,0.34628052,cancel transfer,cancel transfer
+please help me!  i need to cancel a transaction.,2,2,True,0.9022469,cancel transfer,cancel transfer
+"i no longer live at my address on file, how do i change it?",8,8,True,0.8848971,edit personal details,edit personal details
+how to change my address.,8,8,True,0.87129265,edit personal details,edit personal details
+how do i update my details?,8,8,True,0.8969729,edit personal details,edit personal details
+my address needs to be revised.,8,8,True,0.8821266,edit personal details,edit personal details
+"got married, need to change account name",8,8,True,0.66441214,edit personal details,edit personal details
+my address has changed.,8,8,True,0.84658265,edit personal details,edit personal details
+got married and need to change name,8,8,True,0.8458589,edit personal details,edit personal details
+i want to change my personal details.,8,8,True,0.88797545,edit personal details,edit personal details
+i moved.  i need to update my details.,8,8,True,0.8807078,edit personal details,edit personal details
+i need to edit the personal details section of my account,8,8,True,0.80838376,edit personal details,edit personal details
+where can i change my personal information after i move?,8,8,True,0.88993704,edit personal details,edit personal details
+where can i go to modify my detail?,8,8,True,0.8499937,edit personal details,edit personal details
+how do i change my information?,8,8,True,0.88567144,edit personal details,edit personal details
+i need to change my account details,8,10,False,0.71844196,edit personal details,terminate account
+i moved.  where do i update my details?,8,8,True,0.8708471,edit personal details,edit personal details
+i relocated and need to change my personal details.,8,8,True,0.87918985,edit personal details,edit personal details
+i need to update my personal details,8,8,True,0.8562763,edit personal details,edit personal details
+my address has changed. how do i report it?,8,8,True,0.87314546,edit personal details,edit personal details
+i need to update my info.,8,8,True,0.8605162,edit personal details,edit personal details
+how can i modify my details?,8,8,True,0.8881073,edit personal details,edit personal details
+what do i have to do to change my name?,8,8,True,0.8733078,edit personal details,edit personal details
+my address has updated and i need to change it.,8,8,True,0.8931045,edit personal details,edit personal details
+where can i go to update my personal profile?,8,8,True,0.8747983,edit personal details,edit personal details
+is it possible to edit my personal details on the app?,8,8,True,0.81719786,edit personal details,edit personal details
+how can i change my details,8,8,True,0.7053925,edit personal details,edit personal details
+i need help changing my last name on my account.,8,8,True,0.88807464,edit personal details,edit personal details
+how do i update my current residence details?,8,8,True,0.8804858,edit personal details,edit personal details
+how do i change name?,8,8,True,0.89084697,edit personal details,edit personal details
+i need to change my name since i got married,8,8,True,0.8336753,edit personal details,edit personal details
+i want to change my address.,8,8,True,0.88847256,edit personal details,edit personal details
+how to change name,8,8,True,0.6726909,edit personal details,edit personal details
+can i change my information?,8,8,True,0.891644,edit personal details,edit personal details
+i need to update my current address,8,8,True,0.79308087,edit personal details,edit personal details
+i have moved.  where can i update my details?,8,8,True,0.8673077,edit personal details,edit personal details
+i want to change my name.,8,8,True,0.8734666,edit personal details,edit personal details
+should i just wait until the post office sends a change of address form?,8,8,True,0.77881736,edit personal details,edit personal details
+i need to change my name what do i do?,8,8,True,0.8893166,edit personal details,edit personal details
+how can i edit my personal details?,8,8,True,0.8913712,edit personal details,edit personal details
+how do i change my address?,8,8,True,0.89477485,edit personal details,edit personal details
+what do i need to do to change the address on my account?,8,8,True,0.828165,edit personal details,edit personal details
+i like to mastercard rather than visa.,12,12,True,0.91323394,visa or mastercard,visa or mastercard
+do i qualify for a visa card?,12,12,True,0.9021602,visa or mastercard,visa or mastercard
+how do i get a visa card?,12,12,True,0.90857327,visa or mastercard,visa or mastercard
+do you guys accept visa or mastercard?,12,12,True,0.90727484,visa or mastercard,visa or mastercard
+are both visa and mastercard accepted?,12,12,True,0.9114924,visa or mastercard,visa or mastercard
+do you guys accept mastercard or visa?,12,12,True,0.8973687,visa or mastercard,visa or mastercard
+are both visa and mastercard offered?,12,12,True,0.91023713,visa or mastercard,visa or mastercard
+can you give me a visa?,12,12,True,0.84850836,visa or mastercard,visa or mastercard
+how to decide if i get a visa or mastercard?,12,12,True,0.9107751,visa or mastercard,visa or mastercard
+can i get a mastercard?,12,12,True,0.8621632,visa or mastercard,visa or mastercard
+what steps must i follow to get a visa credit card?,12,12,True,0.89626515,visa or mastercard,visa or mastercard
+i'd rather get a mastercard,12,12,True,0.4020783,visa or mastercard,visa or mastercard
+do i get a choice between visa and mastercard?,12,12,True,0.9154472,visa or mastercard,visa or mastercard
+what do i have to do to get a visa credit card?,12,12,True,0.89518064,visa or mastercard,visa or mastercard
+i would prefer a visa card,12,12,True,0.90386516,visa or mastercard,visa or mastercard
+may i choose between visa and mastercard?,12,12,True,0.91222346,visa or mastercard,visa or mastercard
+am i allowed to use any card to make a payment?,12,12,True,0.22471085,visa or mastercard,visa or mastercard
+what are the available cards?,12,12,True,0.5037435,visa or mastercard,visa or mastercard
+i want to get visa and mastercard,12,12,True,0.8915603,visa or mastercard,visa or mastercard
+am i able to choose my card?,12,12,True,0.32465625,visa or mastercard,visa or mastercard
+are both visa and mastercard available to me?,12,12,True,0.90604717,visa or mastercard,visa or mastercard
+do you do visa or mastercard?,12,12,True,0.912294,visa or mastercard,visa or mastercard
+how do i select a mastercard instead of a visa?,12,12,True,0.9000137,visa or mastercard,visa or mastercard
+i would like to apply for a visa card.,12,12,True,0.905079,visa or mastercard,visa or mastercard
+do i get to choose between visa and mastercard?,12,12,True,0.91094327,visa or mastercard,visa or mastercard
+we need both a visa and a mastercard.,12,12,True,0.9143296,visa or mastercard,visa or mastercard
+hello. can you tell me if you use visa or mastercard?,12,12,True,0.90129787,visa or mastercard,visa or mastercard
+i'd like more information about choosing a visa or mastercard.,12,12,True,0.91341096,visa or mastercard,visa or mastercard
+do you have visa or matercard?,12,12,True,0.8981226,visa or mastercard,visa or mastercard
+is it possible to have both a visa and a mastercard from you?,12,12,True,0.91351885,visa or mastercard,visa or mastercard
+i like mastercard better.,12,12,True,0.86026716,visa or mastercard,visa or mastercard
+do you offer visa or mastercard?,12,12,True,0.90571076,visa or mastercard,visa or mastercard
+i would rather the mastercard.,12,12,True,0.82833916,visa or mastercard,visa or mastercard
+please give me both a visa and a master card.,12,12,True,0.89619887,visa or mastercard,visa or mastercard
+is it possible to receive a visa and a mastercard?,12,12,True,0.9041271,visa or mastercard,visa or mastercard
+what major card payments are accepted?,12,1,False,0.29038644,visa or mastercard,atm support
+is visa or mastercard available?,12,12,True,0.9066037,visa or mastercard,visa or mastercard
+can you let me know if visa is among the card scheme assignments?,12,12,True,0.888494,visa or mastercard,visa or mastercard
+do you use mastercard or visa?,12,12,True,0.90171456,visa or mastercard,visa or mastercard
+is it possible to get a visa here?,12,12,True,0.87441593,visa or mastercard,visa or mastercard
+do all atms take this card?,1,1,True,0.54875,atm support,atm support
+which atms accept this card?,1,1,True,0.5947261,atm support,atm support
+where is the closest mastercard atm?,1,1,True,0.6109109,atm support,atm support
+is there a list of atm machines?,1,1,True,0.56047463,atm support,atm support
+are there any specific atms that this card can be used at?,1,1,True,0.5843242,atm support,atm support
+how do i know which atms will accept this card?,1,1,True,0.60927415,atm support,atm support
+which atm's accept my card?,1,1,True,0.5527687,atm support,atm support
+is there any nearby atm's?,1,1,True,0.5703645,atm support,atm support
+where are the locations of atms that accept this card?,1,1,True,0.60262716,atm support,atm support
+which atms accept this placard ?,1,1,True,0.5772077,atm support,atm support
+help me locate the nearest atm.,1,1,True,0.26310962,atm support,atm support
+what atms is the card okay to use at?,1,1,True,0.57440716,atm support,atm support
+how can i find the nearest atm?,1,1,True,0.55134594,atm support,atm support
+what kind of atm's can i use?,1,1,True,0.56788635,atm support,atm support
+how can i withdraw money?,1,1,True,0.38227153,atm support,atm support
+how many miles away is the atm?,1,1,True,0.5283457,atm support,atm support
+from where can i withdraw?,1,1,True,0.4028337,atm support,atm support
+which atm's will accept my card?,1,1,True,0.57399154,atm support,atm support
+at what atms am i able to use the card?,1,1,True,0.6023284,atm support,atm support
+can i use my card at any atms?,1,1,True,0.577278,atm support,atm support
+can i get cash with this card anywhere?,1,6,False,0.46120998,atm support,country support
+which atms accept this card?,1,1,True,0.5947261,atm support,atm support
+can someone please assist me with finding my nearest atm?,1,1,True,0.54424024,atm support,atm support
+are there any atm machines near me?,1,1,True,0.5751864,atm support,atm support
+where is the nearest bank machine?,1,1,True,0.49267977,atm support,atm support
+what type of atms accept this card?,1,1,True,0.60246205,atm support,atm support
+where can i use this card at an atm?,1,1,True,0.55514365,atm support,atm support
+"if i have this card, which atms can i go to?",1,1,True,0.5979068,atm support,atm support
+what atms can i withdraw money from?,1,1,True,0.58642477,atm support,atm support
+"i want to withdraw money, where can i go?",1,1,True,0.50706553,atm support,atm support
+where can i withdrawal my money?,1,1,True,0.5259658,atm support,atm support
+what are the atms that will accept this card?,1,1,True,0.5770901,atm support,atm support
+what atms will accept this type of card?,1,1,True,0.59925604,atm support,atm support
+where can i find an atm to use this card?,1,1,True,0.5678321,atm support,atm support
+at which atms can i use this card?,1,1,True,0.6182069,atm support,atm support
+are there certain atms that i can use this card at?,1,1,True,0.5863102,atm support,atm support
+do you know the closest atm?,1,1,True,0.60132426,atm support,atm support
+can i use this card at an atm?,1,1,True,0.5711852,atm support,atm support
+is there places where i can't withdraw money?,1,1,True,0.514843,atm support,atm support
+locations to withdraw money,1,7,False,0.26720482,atm support,declined cash withdrawal
+can you tell me why you won't let me get my own money out of the money machine? i know i used the right pin.,7,7,True,0.2998917,declined cash withdrawal,declined cash withdrawal
+my withdrawal was cancelled.,7,7,True,0.71865314,declined cash withdrawal,declined cash withdrawal
+this is very frustrating. i can't get my card to work on any atm i try and i've tried 3 of them so far. what's going on? can you please fix this issue immediately?,7,7,True,0.5814371,declined cash withdrawal,declined cash withdrawal
+the atm did not allow me to withdraw,7,7,True,0.82474226,declined cash withdrawal,declined cash withdrawal
+why was my atm transaction cancelled?,7,7,True,0.7101184,declined cash withdrawal,declined cash withdrawal
+the atm keeps declining my card. i tried at a couple different atms. can you tell me if there's a problem with my account?,7,7,True,0.8361487,declined cash withdrawal,declined cash withdrawal
+i was at the atm trying to made a withdraw and i was declined.,7,7,True,0.8428149,declined cash withdrawal,declined cash withdrawal
+the atm didn't let me get any cash,7,7,True,0.81968635,declined cash withdrawal,declined cash withdrawal
+i want to know why i have been unable to withdrawn funds.,7,7,True,0.8088308,declined cash withdrawal,declined cash withdrawal
+"i need your help to check my account, please! my card keeps being declined at the atm, and i've already tried two different ones!",7,7,True,0.71648866,declined cash withdrawal,declined cash withdrawal
+"hi, my card withdrawal was declined this morning. it was working fine till yesterday. please check and inform me.",7,7,True,0.43214,declined cash withdrawal,declined cash withdrawal
+"hi, i was trying to use my card but it was declining by atm. i have cross checked with two different atms but i was facing the same issue. could you please check my account.",7,7,True,0.8292693,declined cash withdrawal,declined cash withdrawal
+i tried to make a cash withdrawal and it was declined. why did this happen?,7,7,True,0.89935464,declined cash withdrawal,declined cash withdrawal
+i can't get money out of the atm,7,7,True,0.8868167,declined cash withdrawal,declined cash withdrawal
+the atm is declining my card. i tried at two different atms. can you tell me if there's anything wrong with my account?,7,7,True,0.86742043,declined cash withdrawal,declined cash withdrawal
+the withdrawal was declined i am unsure as to why this happened?,7,7,True,0.83722836,declined cash withdrawal,declined cash withdrawal
+i was declined when i tried to get cash.,7,7,True,0.9011464,declined cash withdrawal,declined cash withdrawal
+why was i declined at the atm today when i was trying to make a withdraw?,7,7,True,0.8652389,declined cash withdrawal,declined cash withdrawal
+what are some reasons that would cause atm machines to decline my card? it has happened to me multiple times!,7,7,True,0.7708394,declined cash withdrawal,declined cash withdrawal
+why did the atm machine fail to give me a cash withdrawal?,7,7,True,0.8999807,declined cash withdrawal,declined cash withdrawal
+my atm transaction was unsuccessful.,7,7,True,0.7178367,declined cash withdrawal,declined cash withdrawal
+i attempted to get cash but was declined.,7,7,True,0.88835835,declined cash withdrawal,declined cash withdrawal
+i tried to withdraw money but i was declined!,7,7,True,0.90824187,declined cash withdrawal,declined cash withdrawal
+how come i can't take money out of the atm?,7,7,True,0.89863145,declined cash withdrawal,declined cash withdrawal
+the atm keeps declining my card. i tried at two different atms. can you tell me if there's an issue with my account?,7,7,True,0.8308862,declined cash withdrawal,declined cash withdrawal
+why was my cash withdrawal declined?,7,7,True,0.8987208,declined cash withdrawal,declined cash withdrawal
+why could i not get cash?,7,7,True,0.8889173,declined cash withdrawal,declined cash withdrawal
+why couldn't i get cash in the atm?,7,7,True,0.9148568,declined cash withdrawal,declined cash withdrawal
+why can't i get cash?,7,7,True,0.83117706,declined cash withdrawal,declined cash withdrawal
+why didn't the atm give me my money?,7,7,True,0.85813916,declined cash withdrawal,declined cash withdrawal
+i tried to withdraw money from an atm and i was declined on front of my friends. why did this happen?,7,7,True,0.9149964,declined cash withdrawal,declined cash withdrawal
+the atm isn't giving out any money.,7,7,True,0.89758474,declined cash withdrawal,declined cash withdrawal
+why was i declined getting cash?,7,7,True,0.87113595,declined cash withdrawal,declined cash withdrawal
+i couldn't get cash at the atm,7,7,True,0.8646369,declined cash withdrawal,declined cash withdrawal
+"oh my goodness, my card has been declined twice at atm! i tried two different atm, but each one declined my card! can you tell me what's going on with my account?",7,7,True,0.72212064,declined cash withdrawal,declined cash withdrawal
+why could i not choose cash at the atm?,7,7,True,0.9096714,declined cash withdrawal,declined cash withdrawal
+my cash withdrawl was declined why?,7,7,True,0.8986487,declined cash withdrawal,declined cash withdrawal
+is there a reason that the atm declined my transaction?,7,7,True,0.73630875,declined cash withdrawal,declined cash withdrawal
+the cash i tried to draw from the atm was not approved.,7,7,True,0.916862,declined cash withdrawal,declined cash withdrawal
+atm would not give me cash,7,7,True,0.8279004,declined cash withdrawal,declined cash withdrawal
+can you remove my account please?,10,10,True,0.8125504,terminate account,terminate account
+"i want to close an account but im not sure about setting up a new one in the future, what do you recommend",10,10,True,0.48385468,terminate account,terminate account
+my account needs to be deleted.,10,10,True,0.79253715,terminate account,terminate account
+i would like to delete my account please.,10,10,True,0.8343862,terminate account,terminate account
+what steps do i need to take to close my account?,10,10,True,0.83724165,terminate account,terminate account
+i'm tired of all the problems i've had. i want to quit this account!,10,10,True,0.7848641,terminate account,terminate account
+please delete my account right now!,10,10,True,0.8603623,terminate account,terminate account
+i want to close my account,10,10,True,0.5787877,terminate account,terminate account
+"unhappy with you, how to delete account",10,10,True,0.5437364,terminate account,terminate account
+i would like to delete my account.,10,10,True,0.8507219,terminate account,terminate account
+i am highly unsatisfied with this company and want to delete my account!,10,10,True,0.8311802,terminate account,terminate account
+i don't like your company. delete my account.,10,10,True,0.8458105,terminate account,terminate account
+i would like to close my account.,10,10,True,0.8304611,terminate account,terminate account
+this company is terrible! can you delete my account?,10,10,True,0.8260714,terminate account,terminate account
+"this company is bad, please delete my account.",10,10,True,0.8392084,terminate account,terminate account
+"please delete my account, your services are not up to par.",10,10,True,0.8586721,terminate account,terminate account
+i need your help in deleting my account.,10,10,True,0.83957106,terminate account,terminate account
+"the service of this company sucks, i need to terminate my account.",10,10,True,0.8208849,terminate account,terminate account
+delete this account!,10,10,True,0.8531287,terminate account,terminate account
+how do i get rid of my account asap?,10,10,True,0.78676623,terminate account,terminate account
+"this company isn't good, i would like to delete my account.",10,10,True,0.82142675,terminate account,terminate account
+can you delete my account please?,10,10,True,0.84509045,terminate account,terminate account
+i am not satisfied with your company and would like to delete my accounts!,10,10,True,0.78621674,terminate account,terminate account
+please delete my account. i am not happy with the service from your company.,10,10,True,0.83006114,terminate account,terminate account
+please terminate my account.,10,10,True,0.8596396,terminate account,terminate account
+i am sick of this damn company and want to close out my account.,10,10,True,0.7565055,terminate account,terminate account
+please close my account. i am unsatisfied with your service.,10,10,True,0.84804726,terminate account,terminate account
+please delete my account.,10,10,True,0.86346996,terminate account,terminate account
+"your service is terrible,.  delete my account,",10,10,True,0.83697,terminate account,terminate account
+i want my account deleted!,10,10,True,0.832726,terminate account,terminate account
+i am extremely unhappy with this app and want to get rid of my account?,10,10,True,0.72681713,terminate account,terminate account
+how do i delete my account?,10,10,True,0.87175804,terminate account,terminate account
+this company sucks! can you delete my account?,10,10,True,0.8044762,terminate account,terminate account
+i wish to close my account. i do not like the service you provide.,10,10,True,0.8493163,terminate account,terminate account
+can you help me get rid of my account?,10,10,True,0.80854726,terminate account,terminate account
+"i don't find your services useful anymore, how do i delete my account?",10,10,True,0.8406773,terminate account,terminate account
+"please delete my account, this company is not working for me!",10,10,True,0.81682897,terminate account,terminate account
+i want to delete my account. i'm unhappy with the service you're providing.,10,10,True,0.8232395,terminate account,terminate account
+can you tell me how to close my account?,10,10,True,0.80670613,terminate account,terminate account
+this company sucks! can you terminate my account?,10,10,True,0.8270577,terminate account,terminate account
+"what do i do if an atm ""stole"" my card?",4,4,True,0.36014214,card swallowed,card swallowed
+how do i retrieve my card from the machine?,4,4,True,0.2939847,card swallowed,card swallowed
+i was retrieving money and my card wouldn't remove.,4,7,False,0.33233115,card swallowed,declined cash withdrawal
+what do i do since the machine swallowed my card. i need one.,4,3,False,0.3509896,card swallowed,card not working
+how do i get my card back after the atm has pulled it in?,4,4,True,0.37817457,card swallowed,card swallowed
+atm took my card,4,4,True,0.30416647,card swallowed,card swallowed
+is there a way i can get my atm card back from the machine?,4,4,True,0.35426676,card swallowed,card swallowed
+i think the atm ate my card.,4,4,True,0.34447283,card swallowed,card swallowed
+the atm didn't give me the card back!,4,4,True,0.35434425,card swallowed,card swallowed
+how can i get my card out of the damn atm?,4,4,True,0.39105418,card swallowed,card swallowed
+the atm won't give my card back!,4,4,True,0.32358047,card swallowed,card swallowed
+how can i get my card back out?,4,3,False,0.4385076,card swallowed,card not working
+the atm machine stole my card.,4,4,True,0.39257663,card swallowed,card swallowed
+the atm at metro bank on high st. kensington swallowed my card. how do i get it back?,4,4,True,0.35888863,card swallowed,card swallowed
+my atm got stuck and i'm not sure what to do.,4,7,False,0.71073526,card swallowed,declined cash withdrawal
+the atm ate my card.,4,4,True,0.36896396,card swallowed,card swallowed
+the atm won't give me my card back.,4,4,True,0.3397019,card swallowed,card swallowed
+my card was confiscated by an atm. how do i get my card back?,4,4,True,0.3451343,card swallowed,card swallowed
+what do i do if the atm ate my card?,4,4,True,0.3626485,card swallowed,card swallowed
+atm still has my card,4,7,False,0.3914636,card swallowed,declined cash withdrawal
+what do i do if an atm ate my card?,4,4,True,0.39252692,card swallowed,card swallowed
+what happens if the atm doesn't give me back my card?,4,4,True,0.34856382,card swallowed,card swallowed
+i can't pull my card out of the atm. help me.,4,4,True,0.3940803,card swallowed,card swallowed
+i have a problem!  the atm stole my card!,4,4,True,0.35347486,card swallowed,card swallowed
+why would an atm swallow my card?,4,4,True,0.3690622,card swallowed,card swallowed
+my card was taken by the atm.,4,4,True,0.38837156,card swallowed,card swallowed
+help!  the atm won't give me my card back.,4,4,True,0.33086342,card swallowed,card swallowed
+the stupid machine just swallowed my card!! i need a new one asap,4,3,False,0.323828,card swallowed,card not working
+how do i retrieve a trapped card from a atm?,4,4,True,0.34745312,card swallowed,card swallowed
+"my card is stuck in the atm, what can i do?",4,4,True,0.380427,card swallowed,card swallowed
+i was getting cash and can't get my card back.,4,3,False,0.42584455,card swallowed,card not working
+"if my card is trapped in the atm, what do i do?",4,4,True,0.38073334,card swallowed,card swallowed
+my card has been swallowed by an atm,4,4,True,0.35423988,card swallowed,card swallowed
+i was taking out funds and was unable to regain my card.,4,7,False,0.4512615,card swallowed,declined cash withdrawal
+what should i do with my atm that got stuck?,4,7,False,0.5595509,card swallowed,declined cash withdrawal
+the atm at metro bank on high st. kensington didn't return my card. what should i do now that the bank is closed?,4,7,False,0.6420331,card swallowed,declined cash withdrawal
+the atm won't give back my card,4,7,False,0.5975125,card swallowed,declined cash withdrawal
+i was at an atm and it swallowed my card.,4,4,True,0.37947798,card swallowed,card swallowed
+wtf??? i tried to withdraw some money at a metro bank on high st. kensington and without any notice it disappeared in the machine. the bank was already closed so i couldn't do anything. how do i get it back?,4,7,False,0.70709574,card swallowed,declined cash withdrawal
+what happens if my card is stuck in the atm?,4,4,True,0.3953336,card swallowed,card swallowed
+what kind of cash machines would allow me to change my pin?,5,5,True,0.88129634,change pin,change pin
+where do i change my pin?,5,5,True,0.89523846,change pin,change pin
+is the bank the only place i can change my pin>,5,5,True,0.8710662,change pin,change pin
+"if i am overseas, how do i change my pin?",5,5,True,0.887923,change pin,change pin
+can i change my pin at the atm?,5,5,True,0.87050676,change pin,change pin
+how might  i change my pin?,5,5,True,0.8958858,change pin,change pin
+i would like to change my pin but i am not currently in the country.,5,5,True,0.8662189,change pin,change pin
+i would like to change my card pin.,5,5,True,0.85826117,change pin,change pin
+i want to set a new pin,5,5,True,0.5591341,change pin,change pin
+"i desperately need to change my pin, but i'm overseas on vacation right now. how can i do this?",5,5,True,0.85675865,change pin,change pin
+i need a new pin how do i go about that?,5,5,True,0.87962765,change pin,change pin
+is there a location near me that i can change my pin?,5,5,True,0.8910412,change pin,change pin
+in what atm can i change my pin?,5,5,True,0.89187276,change pin,change pin
+i'd like to make a new pin selection.,5,5,True,0.87702197,change pin,change pin
+how do i set a new pin?,5,5,True,0.8898133,change pin,change pin
+how do i update my pin to a new number?,5,5,True,0.88962406,change pin,change pin
+how can i change my tholepin ?,5,5,True,0.48607555,change pin,change pin
+my new pin needs to be set.,5,5,True,0.8856454,change pin,change pin
+i want to choose a different pin.,5,5,True,0.8583598,change pin,change pin
+i would like to change my pin.,5,5,True,0.8923545,change pin,change pin
+am i able to change my pin at any cash machines?,5,5,True,0.8894623,change pin,change pin
+i am travelling for two more weeks but really need to change my pin asap. what do i do?,5,5,True,0.877383,change pin,change pin
+i need to change my pin. can i do that at a cash machine?,5,5,True,0.88488275,change pin,change pin
+do cash machines let me change my pin?,5,5,True,0.88007015,change pin,change pin
+how do i change my pin?,5,5,True,0.8971243,change pin,change pin
+i need to change my pin.,5,5,True,0.89436156,change pin,change pin
+may i receive a different card pin,5,12,False,0.5269162,change pin,visa or mastercard
+what do i need to do to change my pin?,5,5,True,0.8967185,change pin,change pin
+help me set up a new pin?,5,5,True,0.8864191,change pin,change pin
+which cash machines will allow me to change my pin?,5,5,True,0.8850718,change pin,change pin
+"i am in austria right now. i need to change my pin asap, so can i still do this from here?",5,5,True,0.8103023,change pin,change pin
+where can i find instructions to change my pin?,5,5,True,0.8975589,change pin,change pin
+i need to change my pin but i am on the road.,5,5,True,0.8752555,change pin,change pin
+how do i update the pin on my account?,5,5,True,0.8202312,change pin,change pin
+i need a new pin.,5,5,True,0.8852361,change pin,change pin
+show me how to change my pin?,5,5,True,0.8967836,change pin,change pin
+please tell me which cash machines will allow me to change my pin.,5,5,True,0.88399035,change pin,change pin
+what steps do i need to take to change my card pin?,5,5,True,0.87113285,change pin,change pin
+how to change the pin on my card?,5,5,True,0.8691914,change pin,change pin
+how can i change the pin?  do i have to go to a real bank?,5,5,True,0.8829879,change pin,change pin
+can i do a bank transfer to put additional money in my account because i am out of money?,11,11,True,0.83027047,transfer into account,transfer into account
+"i'm out of money, can i add money with my bank?",11,11,True,0.6439822,transfer into account,transfer into account
+how do i go forth on transferring money into my account?,11,11,True,0.873906,transfer into account,transfer into account
+"i don't understand how to top up my account, can you please explain the process?",11,10,False,0.44335756,transfer into account,terminate account
+i don't understand the money transfer process.,11,11,True,0.78999937,transfer into account,transfer into account
+"i need to transfer money into my account, how do i go about doing this?",11,11,True,0.86675686,transfer into account,transfer into account
+what do i need to do to transfer money into my account?,11,11,True,0.87407476,transfer into account,transfer into account
+i don't know what to do. should i transfer funds. my account is out of money.,11,7,False,0.55600166,transfer into account,declined cash withdrawal
+can i add funds to the card directly from my bank account?,11,11,True,0.8141845,transfer into account,transfer into account
+how does tranferring money into my account work?,11,11,True,0.8357637,transfer into account,transfer into account
+i need to know how to transfer money into my bank account. please help,11,11,True,0.8403999,transfer into account,transfer into account
+i would like to transfer some money from my other bank account into this one.,11,11,True,0.8718421,transfer into account,transfer into account
+"when i want to transfer money to my account, how can i do that?",11,11,True,0.8699613,transfer into account,transfer into account
+i need to transfer funds into my account. how can i do this?,11,11,True,0.8736749,transfer into account,transfer into account
+what are the steps i follow to transfer money into my account?,11,11,True,0.88102895,transfer into account,transfer into account
+how can i transfer funds from my bank to my top up account?,11,11,True,0.8920424,transfer into account,transfer into account
+i want to top my account by using a bank transfer. how would that work?,11,11,True,0.8727015,transfer into account,transfer into account
+how to i transfer my funds into my account?,11,11,True,0.87216026,transfer into account,transfer into account
+how do i top up my card?,11,3,False,0.6516012,transfer into account,card not working
+how can i transfer money from an outside bank?,11,11,True,0.31539536,transfer into account,transfer into account
+how can i fund my top-up account using my bank account?,11,11,True,0.82237345,transfer into account,transfer into account
+what methods can i use to add money to my account?,11,11,True,0.80287373,transfer into account,transfer into account
+"i would like to use the bank transfer feature, but i can't find it. can you please give me the details?",11,11,True,0.64267766,transfer into account,transfer into account
+how can i perform a dual money transferring from one account to another?,11,11,True,0.8757892,transfer into account,transfer into account
+can you explain how to transfer money into my  account for me?,11,11,True,0.85876673,transfer into account,transfer into account
+"i need to bank account transfer from another account into this one, what is the easiest way that can be done, and what information do i need?",11,11,True,0.84960485,transfer into account,transfer into account
+how do i transfer money to my account?,11,11,True,0.86295104,transfer into account,transfer into account
+how do i send my account money through transfer?,11,11,True,0.86216635,transfer into account,transfer into account
+how do i do an international transfer?,11,6,False,0.7295504,transfer into account,country support
+are there ways to transfer money into my account?,11,11,True,0.84467435,transfer into account,transfer into account
+i want to transfer from accounts in order to top up. what are the steps necessary.,11,11,True,0.76496017,transfer into account,transfer into account
+how does a transfer work?,11,2,False,0.32868218,transfer into account,cancel transfer
+"i would like use the bank transfer, but i don't understand the process, can you please explain, topping up?",11,11,True,0.7957197,transfer into account,transfer into account
+i want to use bank transfer for topping up my account. how is it handled?,11,11,True,0.874236,transfer into account,transfer into account
+i checked my account today and it said i was out of money. how do i transfer money into my account?,11,11,True,0.7221193,transfer into account,transfer into account
+how can i transfer money to my account?,11,11,True,0.86335516,transfer into account,transfer into account
+i would like to transfer funds from one account to another.,11,11,True,0.87985677,transfer into account,transfer into account
+i'm trying to transfer money into my account.,11,11,True,0.87540466,transfer into account,transfer into account
+i would like to transfer money from my other bank account into this one.,11,11,True,0.8858703,transfer into account,transfer into account
+can i use a bank transfer to refill my account?,11,11,True,0.8287267,transfer into account,transfer into account
+is the top up feature available on the apple watch?,0,0,True,0.9116706,apple pay or google pay,apple pay or google pay
+can i use the system google pay for top-ups?,0,0,True,0.90425986,apple pay or google pay,apple pay or google pay
+my top-up for google pay isn't working,0,0,True,0.8997356,apple pay or google pay,apple pay or google pay
+can i add money with apple pay?,0,0,True,0.9053987,apple pay or google pay,apple pay or google pay
+can i use my apple watch to to top up?,0,0,True,0.9079594,apple pay or google pay,apple pay or google pay
+does apple pay give the option to top up?,0,0,True,0.9137563,apple pay or google pay,apple pay or google pay
+top up on my google pay isn't working.,0,0,True,0.9116115,apple pay or google pay,apple pay or google pay
+is it possible to top up with apple pay?,0,0,True,0.9037464,apple pay or google pay,apple pay or google pay
+do i have to setup apple pay to use it,0,0,True,0.88588536,apple pay or google pay,apple pay or google pay
+can i use apple pay to top up?,0,0,True,0.9072508,apple pay or google pay,apple pay or google pay
+how can i top up my google pay?,0,0,True,0.91608745,apple pay or google pay,apple pay or google pay
+does google play have an app to top up?,0,0,True,0.8967466,apple pay or google pay,apple pay or google pay
+"i received my american express card, but i am having problems making it work with apple pay.  can you help me with this problem?",0,0,True,0.86080635,apple pay or google pay,apple pay or google pay
+is apple pay eligible for top up,0,0,True,0.8545654,apple pay or google pay,apple pay or google pay
+why can't i use my american express with apple pay to top up my account?,0,0,True,0.9072956,apple pay or google pay,apple pay or google pay
+how do i add money with my apple watch,0,0,True,0.8641695,apple pay or google pay,apple pay or google pay
+"if i want to top up, can i use apple pay?",0,0,True,0.91406995,apple pay or google pay,apple pay or google pay
+can i top up with apple pay,0,0,True,0.8868117,apple pay or google pay,apple pay or google pay
+"my american express is experiencing a problem with apple play with top up, can you fix it?",0,0,True,0.90360093,apple pay or google pay,apple pay or google pay
+my top up is not working in apple pay.,0,0,True,0.9032471,apple pay or google pay,apple pay or google pay
+is apple pay a possible top up option?,0,0,True,0.91071945,apple pay or google pay,apple pay or google pay
+i don't know how to top up my google pay.,0,0,True,0.91312426,apple pay or google pay,apple pay or google pay
+can i top up from my apple watch?,0,0,True,0.9078836,apple pay or google pay,apple pay or google pay
+can i use my american express stored in apple pay to top up?,0,0,True,0.89393204,apple pay or google pay,apple pay or google pay
+is apple pay costly?,0,0,True,0.9002746,apple pay or google pay,apple pay or google pay
+how can i top up with google pay?,0,0,True,0.91965073,apple pay or google pay,apple pay or google pay
+i can't top up my account using my american express with apple pay.,0,0,True,0.9092582,apple pay or google pay,apple pay or google pay
+"i got my american express in apple pay, why is top up not working?",0,0,True,0.9142172,apple pay or google pay,apple pay or google pay
+i got my american express in apple bay but top up is not working,0,0,True,0.886738,apple pay or google pay,apple pay or google pay
+how do i top up? can i use my apple watch?,0,0,True,0.9056842,apple pay or google pay,apple pay or google pay
+is it possible to use apple pay to put money in my account?,0,0,True,0.779738,apple pay or google pay,apple pay or google pay
+"my american express is in my apple pay and the top up is failing, why?",0,0,True,0.91908246,apple pay or google pay,apple pay or google pay
+how can i top-ff my account using my apple watch?,0,0,True,0.90840226,apple pay or google pay,apple pay or google pay
+can google pay be used to make a top-up,0,0,True,0.8903516,apple pay or google pay,apple pay or google pay
+how do i get the top up feature on my apple watch working?,0,0,True,0.921905,apple pay or google pay,apple pay or google pay
+how do i troubleshoot google pay top up?,0,0,True,0.9151019,apple pay or google pay,apple pay or google pay
+how do i top up with apple pay?,0,0,True,0.9139067,apple pay or google pay,apple pay or google pay
+why isn't my top up working using my saved american express in applepay?,0,0,True,0.9073418,apple pay or google pay,apple pay or google pay
+how do i use the top up app with my apple watch?,0,0,True,0.9033248,apple pay or google pay,apple pay or google pay
+"google pay and top up, i want it, can i get it?",0,0,True,0.90631276,apple pay or google pay,apple pay or google pay
+i live in the us but want to get a card,6,6,True,0.6941556,country support,country support
+are your cards available in europe?,6,6,True,0.7772475,country support,country support
+can i use your app if i am from the eu?,6,6,True,0.7856619,country support,country support
+what countries are supported?,6,6,True,0.75224954,country support,country support
+i live in the us can i still get a card?,6,6,True,0.7681608,country support,country support
+can i get a card outside the uk?,6,6,True,0.7901642,country support,country support
+"i'm not in the uk, can i still get a card?",6,6,True,0.7921697,country support,country support
+"i'm not in the uk, is it possible for me to still get a card?",6,6,True,0.79303646,country support,country support
+now that i live in the us how can i get a card?,6,6,True,0.78997046,country support,country support
+can i get one of your cards in the eu,6,6,True,0.6180772,country support,country support
+can i get a card despite the fact i'm not in the uk?,6,6,True,0.79939634,country support,country support
+where do i need to live to get support?,6,6,True,0.64278424,country support,country support
+do you support the eu?,6,6,True,0.7625381,country support,country support
+how do i get a card if i am in the usa,6,6,True,0.47134653,country support,country support
+"please help me get a new card, i reside in the united states.",6,6,True,0.7677838,country support,country support
+is it possible to get a card if i'm not in the uk?,6,6,True,0.802423,country support,country support
+is my country supported,6,6,True,0.627488,country support,country support
+from what countries can i use this product?,6,6,True,0.788547,country support,country support
+where can i find your locations?,6,6,True,0.53720665,country support,country support
+can i get a card even if i live outside the uk?,6,6,True,0.8053348,country support,country support
+"i am from the eu, can i sign up?",6,6,True,0.81299853,country support,country support
+"i would like to receive and use the card in europe, is that possible?",6,6,True,0.7862295,country support,country support
+what countries do you support?,6,6,True,0.7981401,country support,country support
+what countries are you currently in?,6,6,True,0.80449533,country support,country support
+what locations are you in?,6,6,True,0.57540345,country support,country support
+can you tell me what countries you operate in?,6,6,True,0.77832365,country support,country support
+"i need a card, but i'm in the us at the moment.",6,6,True,0.74264777,country support,country support
+what countries will my card be supported in?,6,6,True,0.76949054,country support,country support
+do you have a list of countries you operate in?,6,6,True,0.7928481,country support,country support
+in what countries do you do business?,6,6,True,0.80415344,country support,country support
+i don't live in the uk.  can i still get a card?,6,6,True,0.7915679,country support,country support
+where do you support?,6,6,True,0.6936329,country support,country support
+am i able to get a card in eu?,6,6,True,0.8074411,country support,country support
+what countries do you currently do business in?,6,6,True,0.80245227,country support,country support
+"i'm not in the uk, can i get a card?",6,6,True,0.79720765,country support,country support
+"if i'm not in the uk, can i still get a card?",6,6,True,0.7962459,country support,country support
+how many countries do you support?,6,6,True,0.78247887,country support,country support
+what countries do you do business in?,6,6,True,0.8039988,country support,country support
+what are the countries you operate in.,6,6,True,0.7670979,country support,country support
+can the card be mailed and used in europe?,6,6,True,0.74773914,country support,country support
